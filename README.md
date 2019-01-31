@@ -2,7 +2,7 @@
 
 Tools like [create-react-app](https://github.com/facebook/create-react-app) have made setting up client-side React apps trivial, but transitioning to SSR is still kind of a pain in the ass. [Next.js](https://nextjs.org) is a powerhouse, and the [Razzle](https://github.com/jaredpalmer/razzle) tool looks like an absolute beast, but sometimes you just want to see the whole picture. This is a sample setup for full-featured, server-rendered React applications.
 
-**What's included:**
+**What's included:** 
 
 - Server-side rendering with code splitting (via the excellent [React Loadable](https://github.com/thejameskyle/react-loadable) package)
 - Redux (with server-side data fetching/store population)
